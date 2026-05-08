@@ -2,7 +2,7 @@
 
 ## 📚 Course
 Full Stack Software Development: Building Scalable Cloud Applications  
-Great Learning — May 2025 Cohort
+May 2025 Cohort
 
 ## 📝 About
 MongoDB database operations using Mongoose ODM — schema design, CRUD operations, aggregation pipelines, and data validation.
